@@ -1,0 +1,25 @@
+# File types #
+##############
+*.pyc
+*.swo
+*.swp
+*.swn
+
+# Directories #
+###############
+logs/
+Include/
+Lib/
+Scripts/
+
+# Specific files #
+##################
+kanjimapproject/settings.py
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
